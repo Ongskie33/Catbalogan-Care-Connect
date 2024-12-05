@@ -1,16 +1,7 @@
 # catbalogan_care_connect
 
-A new Flutter project.
+Catbalogan Care Connect could offer an enriched patient experience and streamline hospital processes through a variety of features. 
 
-## Getting Started
+For Room Reservations, patients can access room types, amenities, and availability in real-time. The Doctor Information section could list specialties, experience, and consultation hours, along with options for appointment scheduling and telemedicine. Medical Condition Tracking would help patients monitor diagnoses, lab results, and medications, potentially integrating with wearables for health tracking. Admission and Discharge Information could include checklists, expected stay durations, and post-discharge follow-ups to ensure continuity of care. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Patients could also view and manage their Treatment and Schedules, with notifications for upcoming procedures and progress tracking. Billing and Payment Information would break down charges, display insurance details, and enable online payments. Additional resources, such as Health Education, Emergency Contacts, Feedback Options, and a Patient Community Forum, would provide support and empower patients in their healthcare journey. Together, these features make Catbalogan Care Connect a comprehensive tool that enhances both patient convenience and hospital efficiency.
